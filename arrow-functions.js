@@ -1,11 +1,11 @@
 let fruitJuicer = function(fruit1, fruit2){
-    console.log("You made " + fruit1 + fruit2 + " Juice!");
+    console.log("You made " + fruit1 + fruit2 + " Juice.");
 }
 fruitJuicer("Orange", "Mango");
 
 //convert this to an arrow function!!
 let fruitJuicerArrow = (fruit1, fruit2) => {
-    console.log("You made " + fruit1 + fruit2 + " Juice!");
+    console.log("You made " + fruit1 + fruit2 + " Juice.");
 }
 fruitJuicerArrow("Orange", "Mango");
 
